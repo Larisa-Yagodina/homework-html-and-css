@@ -1,0 +1,46 @@
+body {
+    background: ghostwhite;
+    margin: 50px;
+}
+
+p {
+    color: darkblue;
+
+}
+
+h1 {
+    color: darkblue;
+}
+
+h2 {
+    color: darkslategrey;
+}
+
+ol, ul {
+    color: darkgreen;
+}
+
+.p1 {
+    color: darkgreen;
+}
+
+#h1 {
+    background: darkslateblue;
+    color: white;
+}
+
+table {
+    color: darkblue;
+    font-weight: bold;
+    border-color: blue;
+}
+
+.tr1 {
+    text-align: center;
+}
+
+tr, td {
+    border-color: lightblue;
+}
+
+
